@@ -1,117 +1,110 @@
 <div align="center">
 
-<!-- BANNER -->
-<img src="banner.gif" width="100%" alt="Header Banner" />
-
-<!-- TYPING EFFECT -->
-<a href="https://github.com/daemonic10">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=61DAFB&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Fadlan+%F0%9F%91%8B;Full-Stack+Developer;Software+Engineering+Student;Building+Modern+Web+%26+Desktop+Apps" alt="Typing SVG" />
-</a>
-
-<p>
-  <em>Passionate about building modern web applications, high-performance desktop tools, and clean database architectures.</em>
-</p>
-
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/daemonic10"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:313244,100:89b4fa&height=140&section=header&text=&fontSize=0" width="100%" alt="header" />
 
 </div>
 
-## 🚀 Tentang Saya
+<!-- ═══════════════ BENTO GRID ═══════════════ -->
 
-- 💻 Fokus pada **Full-Stack Web Development** dan **Desktop Applications**.
-- 🛠️ Sedang membangun **CINE IX** (Movie Booking Web App) dan **POS System** multi-platform.
-- 📚 Terus memperdalam **React, Next.js, Node.js,** dan manajemen database modern.
-- 🎯 Tujuan: Menulis kode yang bersih, scalable, dan memberikan pengalaman pengguna yang mulus.
-- 🌱 Selalu belajar hal baru di dunia pengembangan perangkat lunak.
+<table align="center" width="100%">
+  <!-- ROW 1 : INTRO (wide card) -->
+  <tr>
+    <td colspan="2" align="center" width="100%">
+      <br />
+      <h1>👋 Hi, saya NAMA_ANDA</h1>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Membangun+hal+keren+dengan+kode;Selalu+belajar%2C+selalu+berkembang" alt="Typing SVG" />
+      <br /><br />
+      <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-a6e3a1?style=for-the-badge&labelColor=1e1e2e" alt="status" />
+      <img src="https://img.shields.io/badge/Based_in-Indonesia-89b4fa?style=for-the-badge&labelColor=1e1e2e" alt="location" />
+      <img src="https://img.shields.io/badge/Focus-Web_Development-cba6f7?style=for-the-badge&labelColor=1e1e2e" alt="focus" />
+      <br /><br />
+    </td>
+  </tr>
 
-<br />
+  <!-- ROW 2 : TECH STACK | STATS -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h3>🛠️ Tech Stack</h3>
+      <sub><b>Frontend</b></sub><br />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind&theme=dark" alt="frontend" />
+      <br /><br />
+      <sub><b>Backend</b></sub><br />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&theme=dark" alt="backend" />
+      <br /><br />
+      <sub><b>Database</b></sub><br />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="database" />
+      <br /><br />
+      <sub><b>Tools</b></sub><br />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark" alt="tools" />
+      <br /><br />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7&ring_color=89b4fa&count_private=true" alt="GitHub Stats" width="100%" />
+      <br />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4" alt="Top Languages" width="100%" />
+    </td>
+  </tr>
 
-## 🛠️ Tech Stack & Tools
+  <!-- ROW 3 : STREAK (wide card) -->
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🔥 Contribution Streak</h3>
+      <img src="https://streak-stats.demolab.com?user=USERNAME&hide_border=true&background=1e1e2e&ring=89b4fa&fire=fab387&currStreakNum=cdd6f4&currStreakLabel=89b4fa&sideNums=cdd6f4&sideLabels=cba6f7&dates=9399b2" alt="Streak Stats" />
+    </td>
+  </tr>
 
-<details open>
-<summary><b>🎨 Frontend & Styling</b></summary>
-<br />
+  <!-- ROW 4 : PROJECTS -->
+  <tr>
+    <td colspan="2" align="center">
+      <h3>🚀 Sedang Dikerjakan</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/USERNAME/cine-ix">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=cine-ix&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" alt="CINE IX" width="100%" />
+      </a>
+      <sub>🎬 <b>CINE IX</b> — Platform film &amp; sinema</sub>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/USERNAME/pos-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=pos-system&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" alt="POS System" width="100%" />
+      </a>
+      <sub>🧾 <b>POS System</b> — Sistem kasir &amp; manajemen penjualan</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/USERNAME/math-repo">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=USERNAME&repo=math-repo&theme=catppuccin_mocha&hide_border=true&bg_color=1e1e2e" alt="Math Repo" width="50%" />
+      </a>
+      <br />
+      <sub>📐 <b>Math Repo</b> — Kumpulan catatan &amp; implementasi matematika</sub>
+    </td>
+  </tr>
 
-<div>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</div>
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend & Desktop</b></summary>
-<br />
-
-<div>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/VB.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white" alt="VB.NET" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dot-net&logoColor=white" alt="ASP.NET" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-</div>
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases & Tools</b></summary>
-<br />
-
-<div>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</div>
-
-</details>
-
-<br />
-
-## 📌 What I'm Working On
-
-| Project           | Deskripsi                                                | Tech Stack                   |
-| :---------------- | :------------------------------------------------------- | :--------------------------- |
-| 🎬 **CINE IX**    | Platform web modern untuk booking dan penjadwalan film.  | Next.js, React, Tailwind CSS |
-| 🛒 **POS System** | Aplikasi Point of Sale terintegrasi desktop & web.       | VB.NET, ASP.NET, MySQL       |
-| 📐 **Math Repo**  | Halaman referensi & rangkuman rumus geometri interaktif. | HTML, CSS, JavaScript        |
-
-<br />
-
-## 📊 GitHub Analytics
+  <!-- ROW 5 : SOCIAL | QUOTE -->
+  <tr>
+    <td width="50%" align="center" valign="middle">
+      <h3>🌐 Terhubung</h3>
+      <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-181825?style=for-the-badge&logo=github&logoColor=cdd6f4" alt="GitHub" /></a>
+      <a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-1e1e2e?style=for-the-badge&logo=linkedin&logoColor=89b4fa" alt="LinkedIn" /></a>
+      <a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-1e1e2e?style=for-the-badge&logo=instagram&logoColor=f5c2e7" alt="Instagram" /></a>
+      <a href="mailto:email@anda.com"><img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=f38ba8" alt="Email" /></a>
+    </td>
+    <td width="50%" align="center" valign="middle">
+      <h3>💭 Quote</h3>
+      <i>"Talk is cheap. Show me the code."</i><br />
+      <sub>— Linus Torvalds</sub>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=daemonic10&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daemonic10&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Top Languages" />
-</div>
 
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=daemonic10&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:89b4fa,50:313244,100:1e1e2e&height=100&section=footer&text=&fontSize=0" width="100%" alt="footer" />
 
-<br />
+<sub>⭐ Terima kasih sudah mampir! Jangan lupa tinggalkan bintang di repo favorit Anda.</sub>
 
-## 🤝 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/daemonic10"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<br />
-
-<div align="center">
-  <p><i>"Code is like humor. When you have to explain it, it's bad."</i></p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer" width="100%" />
 </div>
